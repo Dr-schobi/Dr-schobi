@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Dr-schobi
+- 👀 I’m interested in making stufff, in electronic imaging, embedded software and electronics
