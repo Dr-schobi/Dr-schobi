@@ -13,5 +13,5 @@ This page tries to collect information and documentation for those one-off proje
 - [smd-challenge](smd-challenge) a re-spin of the SMD soldering challenge
 - [modbus-tcp-power-meter](modbus-tcp-power-meter) Interfacing a modbus power meter (for wallbox data)
 - [RGB-christmas](RGB-christmas) putting a 1000 adressable LEDs on a christmas tree
-- Rocket stove plancha
+- [Rocket stove plancha](rocket-plancha) as a wood fired bbq grill
 - ADAT audio mixer
