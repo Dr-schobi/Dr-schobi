@@ -8,10 +8,10 @@ This page tries to collect information and documentation for those one-off proje
 
 ## Project collection
 
-- [Zehnder-comfoair](zehnder-comfoair) is an interface to my home ventilation system
-- [resol-vbus](resol-vbus) an interface for Resol-based temperature control (like for water, thermal solar...)
-- [smd-challenge](smd-challenge) a re-spin of the SMD soldering challenge
-- [modbus-tcp-power-meter](modbus-tcp-power-meter) Interfacing a modbus power meter (for wallbox data)
-- [RGB-christmas](RGB-christmas) putting a 1000 adressable LEDs on a christmas tree
-- [Rocket stove plancha](rocket-plancha) as a wood fired bbq grill
+- [Zehnder-comfoair](https://github.com/Dr-schobi/zehnder-comfoair) is an interface to my home ventilation system
+- [resol-vbus](https://github.com/Dr-schobi/resol-vbus) an interface for Resol-based temperature control (like for water, thermal solar...)
+- [smd-challenge](https://github.com/Dr-schobi/smd-challenge) a re-spin of the SMD soldering challenge
+- [modbus-tcp-power-meter](https://github.com/Dr-schobi/modbus-tcp-power-meter) Interfacing a modbus power meter (for wallbox data)
+- [RGB-christmas](https://github.com/Dr-schobi/RGB-christmas) putting a 1000 adressable LEDs on a christmas tree
+- [Rocket stove plancha](https://github.com/Dr-schobi/rocket-plancha) as a wood fired bbq grill
 - ADAT audio mixer
