@@ -8,6 +8,8 @@ This page tries to collect information and documentation for those one-off proje
 
 ## Project collection
 
+- [spooky eyes](https://github.com/Dr-schobi/spooky-eyes/) halloween decoration
+- [WLED PartyPar](https://github.com/Dr-schobi/wled-partypar) modified LED spot 
 - [Zehnder-comfoair](https://github.com/Dr-schobi/zehnder-comfoair) is an interface to my home ventilation system
 - [resol-vbus-interface](https://github.com/Dr-schobi/resol-vbus-interface) an interface for Resol-based temperature control (like for water, thermal solar...)
 - [smd-challenge](https://github.com/Dr-schobi/smd-challenge) a re-spin of the SMD soldering challenge
